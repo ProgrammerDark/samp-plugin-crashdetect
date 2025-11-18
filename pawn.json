@@ -19,6 +19,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["Y-Less/samp-plugin-crashdetect"]
+        "plugins": ["ProgrammerDark/samp-plugin-crashdetect"]
     }
 }
